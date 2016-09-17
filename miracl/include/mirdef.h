@@ -4,8 +4,8 @@
 #define MR_GENERIC_MT
 #define MR_LITTLE_ENDIAN
 #define MIRACL 64
-#define mr_utype __int64
-#define mr_unsign64 unsigned __int64
+#define mr_utype  long long
+#define mr_unsign64 unsigned long long
 #define MR_IBITS 32
 #define MR_LBITS 32
 #define mr_unsign32 unsigned int
