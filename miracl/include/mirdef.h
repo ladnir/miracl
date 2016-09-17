@@ -1,8 +1,7 @@
 /*
 *   MIRACL compiler/hardware definitions - mirdef.h
 */
-#define MR_OS_THREADS
-#define MR_WINDOWS_MT
+#define MR_GENERIC_MT
 #define MR_LITTLE_ENDIAN
 #define MIRACL 64
 #define mr_utype __int64
