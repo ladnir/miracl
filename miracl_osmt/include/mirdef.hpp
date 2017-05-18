@@ -1,8 +1,7 @@
 /*
- *   MIRACL compiler/hardware definitions - mirdef.h
- *   For C++ build of library
- */
-
+*   MIRACL compiler/hardware definitions - mirdef.h
+*/
+#define MR_UNIX_MT
 #define MR_LITTLE_ENDIAN
 #define MIRACL 64
 #define mr_utype long
